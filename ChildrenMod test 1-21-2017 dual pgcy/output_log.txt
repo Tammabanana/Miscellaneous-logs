@@ -1,0 +1,125 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.2078]
+    Renderer: NVIDIA GeForce GTX 760 Ti OEM
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.845088 ms
+RimWorld 0.16.1393 rev536
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mod Thingamajigs has incorrectly formatted target version 'Alpha 9'. For the current version, write: <targetVersion>0.16.1393</targetVersion>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-15D10470 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15D10470.dll
+Non platform assembly: data-15D33E78 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15D33E78.dll
+Non platform assembly: data-15D78D50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15D78D50.dll
+Non platform assembly: data-15D85760 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15D85760.dll
+Non platform assembly: data-15D92370 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15D92370.dll
+Non platform assembly: data-15DACB30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DACB30.dll
+Non platform assembly: data-15DB20C8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DB20C8.dll
+Non platform assembly: data-15DBAFE8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DBAFE8.dll
+Non platform assembly: data-15DCBFF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DCBFF0.dll
+Non platform assembly: data-15DCD3F8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DCD3F8.dll
+Non platform assembly: data-15DD6E00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DD6E00.dll
+Attempting detour from Void SpawnSetup(Verse.Map)to Void _SpawnSetup(Verse.Map)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Extended Storage Detour Successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-15DE3030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DE3030.dll
+Non platform assembly: data-15DFFC68 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DFFC68.dll
+d3d: failed to create 2D texture id=2863 w=127 h=32 mips=8 d3dfmt=21 [invalid call]
+[HugsLib] v2.3.2 initialized SeveralPuffins_RomanceDiversifiedBase, SeveralPuffins_RumoursAndDeceptionA16, SeveralPuffins_RimDisordersBase, Psychology
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[Psychology] Disabling Kinsey scale due to detection of a romance/sexuality mod.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[Psychology] Detouring of methods vital to the functionality of some traits was disabled to protect compatibility. Setting the commonality of those traits to zero.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RimWorldChildren injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.732149 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 7237.
+Total: 16.426527 ms (FindLiveObjects: 0.193653 ms CreateObjectMapping: 0.252081 ms MarkObjects: 15.911222 ms  DeleteObjects: 0.068366 ms)
+
+Loading game from file Young Meadows with mods Core, 818773962, 828705258, 796643583, 796643425, 833388914, IC1 - Subsistence, IC3 - Homestead Flavor, 759219409, 726372052, 725447220, 727687246, 725949967, 705924057, A16 - Kitchen Counter, 780996548, 779592154, Taiga_Creatures, 833899765, 826824646, No Raid Storyteller - A16, 825318134, Travel-Rations--MREs, ExtendedStorage-A16, 747313773, and ChildrenMod
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 14044.
+Total: 235.407532 ms (FindLiveObjects: 0.500246 ms CreateObjectMapping: 0.981820 ms MarkObjects: 233.866440 ms  DeleteObjects: 0.057825 ms)
+
+Vertex index out of bounds. polygonVertices=1 vertexIndex=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+JobDriver threw exception in initAction. Pawn=Lumi, Job=HaulToContainer A=Thing_WoodLog93735 B=Thing_GeneralShelving_Frame108153, Exception: System.Exception: StartCarryThing got availableStackSpace 0 for haulTarg WoodLog93735. Job: HaulToContainer A=Thing_WoodLog93735 B=Thing_GeneralShelving_Frame108153
+  at Verse.AI.Toils_Haul+<StartCarryThing>c__AnonStorey41A.<>m__67B () [0x00000] in <filename unknown>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to set ThingStackPartClass stack count to -4. thing=GrizzlyBear_Meat115902
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3040 -> priority: 1 
+  Thread -> id: 2fac -> priority: 1 
