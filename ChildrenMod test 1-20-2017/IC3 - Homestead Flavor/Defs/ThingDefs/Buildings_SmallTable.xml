@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+
+<!-- Table -->
+
+ <ThingDef ParentName="BuildingBase">
+	<defName>sd_roundtable_small</defName>
+    <label>small table</label>
+    <thingClass>Building</thingClass>
+	<graphicData>
+		<texPath>sd_roundtable/sd_roundtable_small</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1,1)</drawSize>
+			<shadowData>
+				<volume>(0.8, 0.75,0.6)</volume>
+				<offset>(0,0,-0.2)</offset>
+			</shadowData>
+		<damageData>
+			<rect>(0.05,0.05,0.9,0.9)</rect>
+		</damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <description>People eat off tables when chairs are placed facing them. Small tables are not good places to throw parties.</description>
+    <passability>PassThroughOnly</passability>
+    <CastEdgeShadows>false</CastEdgeShadows>
+    <pathCost>60</pathCost>
+	<statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <WorkToMake>1000</WorkToMake>
+	  <Mass>3</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>6</Beauty>
+    </statBases>
+    <fillPercent>0.4</fillPercent>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>15</costStuffCount>
+	<size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <designationCategory>Furniture</designationCategory>
+    <surfaceType>Eat</surfaceType>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+	<tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+ </ThingDef>
+     
+	</Buildings>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+
+	  
+	<ThingDef Name="BarnStallBase" Abstract="True" ParentName="BuildingBase">
+		<ThingClass>Building_Bed</ThingClass>
+		<minifiedDef>MinifiedFurniture</minifiedDef>
+				<designationCategory>Misc</designationCategory>
+		<AltitudeLayer>Building</AltitudeLayer>
+		<fillPercent>0.25</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<Passability>PassThroughOnly</Passability>
+		<surfaceType>Item</surfaceType>
+	</ThingDef>
+
+
+	<!-- ++++++++++++++++++++++++++++++++BarnStall++++++++++++++++++++++++++++++++ -->
+
+
+	<ThingDef ParentName="BarnStallBase">
+		<defName>BarnStall</defName>
+		<label>barn stall</label>
+		<description>A stall for your barn animals. Fits any animal.</description>
+		<rotatable>true</rotatable>
+		<PathCost>40</PathCost>
+		<CastEdgeShadows>true</CastEdgeShadows>
+		<graphicData>
+			<texPath>Things/Building/BarnStall</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>2.1,2.1</drawSize>
+		</graphicData>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>75</costStuffCount>
+		<Size>(2,2)</Size>
+		<building>
+			<bed_humanlike>false</bed_humanlike>
+			<bed_ShowSleeperBody>true</bed_ShowSleeperBody>
+			<bed_healPerDay>7</bed_healPerDay>
+		</building>
+		<statBases>
+			<MaxHitPoints>140</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<WorkToMake>600</WorkToMake>
+			<Mass>15</Mass>
+			<BedRestEffectiveness>1</BedRestEffectiveness>
+			<Comfort>0.95</Comfort>
+			<ImmunityGainSpeedFactor>1.5</ImmunityGainSpeedFactor>
+		</statBases>
+	</ThingDef>
+
+
+</Buildings>
+
+
+
+
+
+

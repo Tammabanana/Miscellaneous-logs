@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+	<ThingDef Name="AnimalFeedTroughBase" Abstract="True" ParentName="BuildingBase">
+		<thingClass>Building_Storage</thingClass>
+		<altitudeLayer>Building</altitudeLayer>
+		<minifiedDef>MinifiedFurniture</minifiedDef>
+		<designationCategory>Misc</designationCategory>
+		<passability>PassThroughOnly</passability>
+		<pathCost>60</pathCost>
+		<castEdgeShadows>true</castEdgeShadows>
+		<rotatable>true</rotatable>
+		<fillPercent>0.30</fillPercent>
+		<tickerType>Normal</tickerType>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<surfaceType>Item</surfaceType>
+	</ThingDef>	
+	
+	<ThingDef ParentName="AnimalFeedTroughBase">	
+		<defName>AnimalFeedTrough</defName>
+		<label>Animal Feed Trough</label>
+		<description>Designated storage area for animal feed.</description>
+		<graphicData>
+			<texPath>Things/Storage/AnimalFeedTrough/AnimalFeedTrough</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,4)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<statBases>
+			<WorkToMake>1000</WorkToMake>
+			<MaxHitPoints>180</MaxHitPoints>
+			<Mass>15</Mass>
+			<Flammability>1.0</Flammability>
+			<Cleanliness>-3</Cleanliness>
+		</statBases>
+		<size>(1,4)</size>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>75</costStuffCount>
+		<building>
+			<fixedStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>Hay</li>
+						<li>Kibble</li>
+						<li>RawCorn</li>
+					</thingDefs>
+					<disallowedSpecialFilters>
+						<li>AllowRotten</li>
+					</disallowedSpecialFilters>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<inspectorTabs>
+			<li>ITab_Storage</li>
+		</inspectorTabs>
+	</ThingDef>
+  
+  
+ </ThingDefs>

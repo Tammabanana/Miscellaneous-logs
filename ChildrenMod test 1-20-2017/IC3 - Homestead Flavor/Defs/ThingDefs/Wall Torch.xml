@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+
+  
+<ThingDef ParentName="BuildingBase">
+    <defName>WallTorch</defName>
+    <label>wall torch</label>
+    <ThingClass>Building</ThingClass>
+    <Description>A wall mounted torch for lighting an area. Can be automatically refueled with wood. Not a good source of heat. Must be placed on a wall.</Description>
+    <graphicData>
+      <texPath>Things/Torch/Wall Torch</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.1,1.1)</drawSize>
+      <drawRotated>true</drawRotated>
+      <allowFlip>true</allowFlip>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
+	<designationCategory>Misc</designationCategory>
+    <AltitudeLayer>PawnUnused</AltitudeLayer>
+    <fillPercent>0.15</fillPercent>
+    <constructEffect>ConstructWood</constructEffect>
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+      <WorkToMake>80</WorkToMake>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Flammability>0</Flammability>
+    </statBases>
+    <Size>(1,1)</Size>
+    <costList>
+	  <Steel>10</Steel>
+      <WoodLog>10</WoodLog>
+    </costList>
+    <Passability>PassThroughOnly</Passability>
+    <surfaceType>Item</surfaceType>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1.0</fuelConsumptionRate>
+        <fuelCapacity>10.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <destroyOnNoFuel>true</destroyOnNoFuel>
+      </li>
+    <li Class="CompProperties_Glower">
+        <glowRadius>10</glowRadius>
+        <glowColor>(252,187,113,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>1</heatPerSecond>
+        <heatPushMaxTemperature>20</heatPushMaxTemperature>
+      </li>
+	  <li Class="CompProperties_FireOverlay">
+        <fireSize>0.6</fireSize>
+		<offset>(0,0,0)</offset>
+      </li>
+    </comps>
+  </ThingDef>
+  
+</Buildings>

@@ -1,0 +1,799 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.2078]
+    Renderer: NVIDIA GeForce GTX 760 Ti OEM
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.741184 ms
+RimWorld 0.16.1393 rev536
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mod Thingamajigs has incorrectly formatted target version 'Alpha 9'. For the current version, write: <targetVersion>0.16.1393</targetVersion>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-167535B8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167535B8.dll
+Non platform assembly: data-1676EFC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1676EFC0.dll
+Non platform assembly: data-167AA7C8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167AA7C8.dll
+Non platform assembly: data-167B71D8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167B71D8.dll
+Non platform assembly: data-167C4810 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167C4810.dll
+Non platform assembly: data-167D7058 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167D7058.dll
+Non platform assembly: data-167DE5F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167DE5F0.dll
+Non platform assembly: data-167E7508 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-167E7508.dll
+Non platform assembly: data-16806510 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16806510.dll
+Non platform assembly: data-16807918 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16807918.dll
+Non platform assembly: data-16809320 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16809320.dll
+Attempting detour from Void SpawnSetup(Verse.Map)to Void _SpawnSetup(Verse.Map)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Extended Storage Detour Successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-16817550 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16817550.dll
+Non platform assembly: data-16834188 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16834188.dll
+d3d: failed to create 2D texture id=2863 w=127 h=32 mips=8 d3dfmt=21 [invalid call]
+[HugsLib] v2.3.2 initialized SeveralPuffins_RomanceDiversifiedBase, SeveralPuffins_RumoursAndDeceptionA16, SeveralPuffins_RimDisordersBase, Psychology
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[Psychology] Disabling Kinsey scale due to detection of a romance/sexuality mod.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[Psychology] Detouring of methods vital to the functionality of some traits was disabled to protect compatibility. Setting the commonality of those traits to zero.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RimWorldChildren injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.603850 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 7237.
+Total: 16.325033 ms (FindLiveObjects: 0.218048 ms CreateObjectMapping: 0.249671 ms MarkObjects: 15.806714 ms  DeleteObjects: 0.049994 ms)
+
+Loading game from file Young Meadows with mods Core, 818773962, 828705258, 796643583, 796643425, 833388914, IC1 - Subsistence, IC3 - Homestead Flavor, 759219409, 726372052, 725447220, 727687246, 725949967, 705924057, A16 - Kitchen Counter, 780996548, 779592154, Taiga_Creatures, 833899765, 826824646, No Raid Storyteller - A16, 825318134, Travel-Rations--MREs, ExtendedStorage-A16, 747313773, and ChildrenMod
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2210 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2210 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2218 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2214 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2214 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2265 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2265 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2261 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2272 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2272 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2269 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2269 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2314 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2314 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2318 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2326 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2326 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2322 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2322 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2372 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2372 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2384 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2384 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2380 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2380 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2427 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2438 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2438 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2482 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2494 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2494 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2548 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2602 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2599 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2646 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2658 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2658 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2702 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2702 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2713 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2713 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2755 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2755 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2766 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2766 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2763 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2811 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2811 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2815 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2823 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2819 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2865 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2865 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2876 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2876 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2919 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2919 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2922 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2929 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2929 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2972 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2983 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human2980 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3039 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3086 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3086 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3081 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3132 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3180 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3172 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3232 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3232 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3279 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3271 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3271 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3332 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3332 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3329 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3325 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3325 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3387 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3387 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3383 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3383 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3380 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID Thing_Human3380 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Meadows has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Meadows has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Bucky has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Bucky has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Bucky has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Patty has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Patty has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Patty has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Young has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Young has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Young has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Young has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Nolan has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Nolan has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Squirt has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Fox has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Fox has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Fox has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Fox has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Gumpy has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Gumpy has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rodat has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rodat has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rodat has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rodat has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Tiffy has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Lyn has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Lyn has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Bogdan has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Elvira has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Elvira has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Lloyd has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Sammy has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Sammy has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Fumiko has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Kane has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Kane has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Ivia has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Ivia has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Wolf has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Wolf has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Irwin has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Irwin has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Jackson has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Jackson has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Jackson has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Noah has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Noah has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Noah has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Chimp has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Chimp has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Cindy has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Cindy has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Sissy has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Sissy has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Paramedic has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Paramedic has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Paramedic has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Giggles has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Giggles has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Ayano has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Lela has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Lela has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Mariya has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Hawk has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Hawk has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Hawk has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Cella has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Marco has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Reebs has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Yutaka has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Yutaka has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Steroid has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Yul has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Red has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rafael has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rafael has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Rafael has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Tail has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Samantha has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Alberto has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Alberto has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Alberto has relation "ExSpouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Alberto has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Tigress has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pawn Villa has relation "ExLover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13956.
+Total: 241.751724 ms (FindLiveObjects: 0.514703 ms CreateObjectMapping: 1.179691 ms MarkObjects: 240.010056 ms  DeleteObjects: 0.046380 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b58 -> priority: 1 
+  Thread -> id: 303c -> priority: 1 
